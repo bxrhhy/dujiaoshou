@@ -1,4 +1,4 @@
-import 'package:demo_dujiaoshou/detailsPage.dart';
+import 'package:dujiaoshou/detailsPage.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 

@@ -1,4 +1,4 @@
-import 'package:demo_dujiaoshou/paihangList.dart';
+import 'package:dujiaoshou/paihangList.dart';
 import 'package:flutter/material.dart';
 
 import 'appBar.dart';
